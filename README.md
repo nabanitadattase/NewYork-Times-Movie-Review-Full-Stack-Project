@@ -1,7 +1,16 @@
-# Java
-Project has been done using JSP and servlet and follwed MVC model structure.
-Through Rest API Call, It can List an arbitrary number of movie reviews
-It is also possible to search for a specific movie 
-It is also possible to see a short review summary for a specific movie If New York Times adds a new review it is automatically reflecting the change. 
-MovieReview.jsp is used for display purpose. Two java files in controller package are used for servlet. Two java files in generate package have been developed the method details of java files.
-I have used Java version7 and Netbeans IDE and Apache Tomcat as Application server to do this project.
+NewYork Times Movie Review (JSP,Servlet,MVC,Java7)Full Stack Project:
+
+About:
+
+The goal of the project is to create an application integrated with New York Times movie review API. 
+
+The requirements are:
+•	There should be at least a minimal styled Web frontend
+•	List an arbitrary number of movie reviews 
+•	It should be possible to search for a specific movie 
+•	It should be possible to see a short review summary for a specific movie 
+•	If New York Times adds a new review it would be nice if the list automatically could reflect the change. 
+
+Main technologies used during development:
+
+Front-end:
