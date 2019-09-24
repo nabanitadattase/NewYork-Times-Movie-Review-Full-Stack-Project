@@ -1,4 +1,4 @@
-NewYork Times Movie Review (JSP,Servlet,MVC,Java7)Full Stack Project:
+NewYork Times Movie Review (JSP,Servlet,MVC,Java7, SoapUi)Full Stack Project:
 
 About:
 
@@ -18,6 +18,6 @@ MovieReview.jsp is used for display purpose. Two java files in controller packag
 Main technologies used during development:
 
 Front-end: HTML,Bootstrap, JSP
-Tool: Netbeans IDE
+Tool: Netbeans IDE, SoapUi
 Application Server: Apache Tomcat
 Back-end: Built with using servlet follwed MVC model structure, Java7,Used Rest API call.
